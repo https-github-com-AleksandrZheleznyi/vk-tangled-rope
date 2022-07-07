@@ -1,7 +1,7 @@
 var IsMobilePlatform = false;
 
 let cachedConfigFile = null;
-let configUrl = 'https://spgames.s3.ap-south-1.amazonaws.com/tangled-rope/vkgames/0.1/RemoteConfig.json';
+let configUrl = 'https://spgames.s3.ap-south-1.amazonaws.com/tangled-rope/vkgames/0.2/RemoteConfig.json';
 var showedRewardVideo = false;
 var environment = {
     appId: "",
